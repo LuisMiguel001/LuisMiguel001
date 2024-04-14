@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡¡Hola 👋, Soy Luis Miguel!!<br>Estudiante de Ingeniería en Sistemas y Ciencias Computacionales.<br>Amenté de la tecnología💻, el GYM💪🔱 y la lectura📚📕.![](https://i.postimg.cc/cC9Y4cdf/lenguajes-programacion-top.gif)
+¡¡Hola 👋, Soy Luis Miguel!!<br>Estudiante de Ingeniería en Sistemas y Ciencias Computacionales.<br>Amenté de la tecnología💻, el GYM💪🔱 y la lectura📚📕.<img align="right" alt="Coding" width="400" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 
 
 # 💻 Tech Stack:
