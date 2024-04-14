@@ -1,5 +1,5 @@
 # 💫 About Me:
-<img align="right" alt="Coding" width="200" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
+<img alt="Coding" width="200" src="https://aleduran.com/wp-content/uploads/lenguajes-programacion-top.gif">
 ¡¡Hola 👋, Soy Luis Miguel!!<br>Estudiante de Ingeniería en Sistemas y Ciencias Computacionales.
 Amenté de la tecnología💻, el GYM💪🔱 y la lectura📚📕.
 
