@@ -1,4 +1,4 @@
-!(https://i.postimg.cc/cC9Y4cdf/lenguajes-programacion-top.gif)
+![](https://i.postimg.cc/cC9Y4cdf/lenguajes-programacion-top.gif)
 # 💫 About Me:
 ¡¡Hola 👋, Soy Luis Miguel!!<br>Estudiante de Ingeniería en Sistemas y Ciencias Computacionales.<br>Amenté de la tecnología💻, el GYM💪🔱 y la lectura📚📕. 
 
